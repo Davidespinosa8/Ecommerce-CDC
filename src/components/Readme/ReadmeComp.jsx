@@ -67,7 +67,7 @@ const ReadmeComponent = () => {
             <div className="flex flex-row justify-between items-center h-16">
               <Typography variant="h6">
                 <span className="text-blue-500 hover:underline text-base md:text-lg">
-                  <a href="https://github.com/Davidespinosa8?tab=repositories">
+                  <a href="https://github.com/Davidespinosa8/Ecommerce-CDC/blob/master/README.md">
                     𝐀𝐩𝐩 𝐑𝐞𝐚𝐝𝐦𝐞
                   </a>
                 </span>
@@ -80,7 +80,7 @@ const ReadmeComponent = () => {
                   rel="noopener noreferrer"
                 >
                   <Avatar
-                    alt="Mahmoud Mansy"
+                    alt="Davidespinosa8"
                     src={profilePic}
                     sx={{
                       width: isMobile ? "60px" : "70px",

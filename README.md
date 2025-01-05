@@ -1,6 +1,6 @@
 # Sitio Web de E-Commerce 🎉
 
-Este proyecto de e-commerce fue desarrollado como parte del curso de front-end de la Escuela de Innovación y Tecnología en Junín. El sitio ofrece una experiencia de compra moderna y funcional, utilizando tecnologías avanzadas como React junto con Vite para la configuración inicial. Tailwind CSS se empleó para los estilos, complementado con componentes personalizados, asegurando una interfaz atractiva y fácil de usar.
+Este proyecto de e-commerce fue desarrollado como parte del curso de front-end de la Escuela de Innovación y Tecnología en Junín. El sitio ofrece una experiencia de compra moderna y funcional, utilizando tecnologías avanzadas como React junto con Vite para la configuración inicial. Tailwind CSS se empleó para los estilos, complementado con componentes personalizados, asegurando una interfaz atractiva y fácil de usar. Además, aprovecha los conocimientos adquiridos en la utilización de diversos complementos y aplicaciones creadas para mejorar la eficiencia y funcionalidad del proyecto, realzando su valor.
 
 ---
 
@@ -8,7 +8,7 @@ Este proyecto de e-commerce fue desarrollado como parte del curso de front-end d
 
 - [Características](#características)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Cómo Configurar](#cómo-configurar)
+- [Configuración](#configuración)
 - [Capturas de Pantalla](#capturas-de-pantalla)
 - [Contacto](#contacto)
 
@@ -21,6 +21,8 @@ Este proyecto de e-commerce fue desarrollado como parte del curso de front-end d
 - **Búsqueda de Productos:** Herramienta de búsqueda rápida y eficiente.
 - **Página de Perfil:** Experiencia personalizada para cada usuario.
 - **Proceso de Compra:** Flujo de checkout optimizado con soporte para cupones y métodos de pago.
+- **Códigos QR Personalizados:** Integración con una aplicación externa para generar códigos QR.
+- **Soporte Multilenguaje:** Implementación de traducciones con i18next.
 
 ---
 
@@ -29,18 +31,22 @@ Este proyecto de e-commerce fue desarrollado como parte del curso de front-end d
 - **React:** Biblioteca de JavaScript para crear interfaces dinámicas.
 - **Vite:** Herramienta para un desarrollo rápido y moderno.
 - **Tailwind CSS:** Framework CSS para diseño ágil y personalizable.
+- **Firebase:** Reutilización de bases de datos de proyectos anteriores para gestionar usuarios y productos.
+- **i18next:** Librería para internacionalización.
+- **Herramienta de Códigos QR:** Aplicación externa para crear códigos QR (
+  [qrcode-qr.netlify.app](https://qrcode-qr.netlify.app/)).
 - **Git:** Control de versiones para el proyecto.
 
 ---
 
-## Cómo Configurar
+## Configuración
 
 Sigue estos pasos para ejecutar el proyecto localmente:
 
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/ecommerce-website.git
+   git clone https://github.com/Davidespinosa8/Ecommerce-CDC.git
    ```
 
 2. Ingresa al directorio del proyecto:
@@ -76,17 +82,9 @@ Sigue estos pasos para ejecutar el proyecto localmente:
 
 ---
 
-## Contacto
-
-- [Portafolio](https://myprofile-delta-roan.vercel.app/)
-- [Email](mailto\:mi-email@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/mi-perfil)
-
----
-
 # E-Commerce Website 🎉
 
-This e-commerce project was developed as part of the front-end course at the School of Innovation and Technology in Junín. The site offers a modern and functional shopping experience, utilizing advanced technologies like React with Vite for initial setup. Tailwind CSS was employed for styling, complemented by custom components to ensure an attractive and user-friendly interface.
+This e-commerce project was developed as part of the front-end course at the School of Innovation and Technology in Junín. The site offers a modern and functional shopping experience, utilizing advanced technologies like React with Vite for initial setup. Tailwind CSS was employed for styling, complemented by custom components to ensure an attractive and user-friendly interface. Additionally, it leverages acquired expertise in using various plugins and custom-built applications to enhance project efficiency and functionality, significantly boosting its overall value.
 
 ---
 
@@ -107,6 +105,8 @@ This e-commerce project was developed as part of the front-end course at the Sch
 - **Product Search:** Quick and efficient product discovery.
 - **Profile Page:** Personalized user experience.
 - **Checkout Process:** Optimized checkout with coupon and payment support.
+- **Custom QR Codes:** Integration with an external QR code generator.
+- **Multi-language Support:** Implemented with i18next.
 
 ---
 
@@ -115,6 +115,9 @@ This e-commerce project was developed as part of the front-end course at the Sch
 - **React:** JavaScript library for dynamic, reactive interfaces.
 - **Vite:** Fast and modern development tool.
 - **Tailwind CSS:** Framework for rapid and customizable designs.
+- **Firebase:** Reused databases from previous projects for user and product management.
+- **i18next:** Library for internationalization.
+- **QR Code Tool:** External app for creating QR codes ([qrcode-qr.netlify.app](https://qrcode-qr.netlify.app/)).
 - **Git:** Version control tool.
 
 ---
@@ -126,7 +129,7 @@ Follow these steps to run the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ecommerce-website.git
+   git clone https://github.com/Davidespinosa8/Ecommerce-CDC.git
    ```
 
 2. Navigate to the project directory:
@@ -164,7 +167,7 @@ Follow these steps to run the project locally:
 
 ## Contact
 
-- [Portfolio](https://myprofile-delta-roan.vercel.app/)
-- [Email](mailto\:ddavidespinosa8@gmail.com)
+- [Portafolio](https://myprofile-delta-roan.vercel.app/)
+- [Email](mailto:legionserviciosdigitales@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/dar%C3%ADo-david-espinosa-b50972258/)
 
