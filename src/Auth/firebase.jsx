@@ -7,24 +7,23 @@ import { getAuth } from "firebase/auth";
 
 // Configuración del proyecto original (Firestore)
 const firestoreConfig = {
-  apiKey: "AIzaSyDF72681dY91QYzgqdTVnCf1EtOcGFeS-M",
-  authDomain: "e-commerce-1f616.firebaseapp.com",
-  projectId: "e-commerce-1f616",
-  storageBucket: "e-commerce-1f616.appspot.com",
-  messagingSenderId: "22868744350",
-  appId: "1:22868744350:web:19f20d01385d9e097ac38f",
-  measurementId: "G-0LFDPZ8CR9",
+  apiKey: import.meta.env.VITE_FIRESTORE_API_KEY,
+  authDomain: import.meta.env.VITE_FIRESTORE_AUTH_DOMAIN,
+  projectId: import.meta.env.VITE_FIRESTORE_PROJECT_ID,
+  storageBucket: import.meta.env.VITE_FIRESTORE_STORAGE_BUCKET,
+  messagingSenderId: import.meta.env.VITE_FIRESTORE_MESSAGING_SENDER_ID,
+  appId: import.meta.env.VITE_FIRESTORE_APP_ID,
+  measurementId: import.meta.env.VITE_FIRESTORE_MEASUREMENT_ID,
 };
 
-// Configuración del nuevo proyecto (Auth)
 const authConfig = {
-  apiKey: "AIzaSyAZKo5EAQTlIXcTxXSK0AlEEu6yQuLzZps",
-  authDomain: "ecomerce-webauth.firebaseapp.com",
-  projectId: "ecomerce-webauth",
-  storageBucket: "ecomerce-webauth.firebasestorage.app",
-  messagingSenderId: "597315927644",
-  appId: "1:597315927644:web:1e0e1bcdeaed36b1147099",
-  measurementId: "G-Z7995JT3BR",
+  apiKey: import.meta.env.VITE_AUTH_API_KEY,
+  authDomain: import.meta.env.VITE_AUTH_AUTH_DOMAIN,
+  projectId: import.meta.env.VITE_AUTH_PROJECT_ID,
+  storageBucket: import.meta.env.VITE_AUTH_STORAGE_BUCKET,
+  messagingSenderId: import.meta.env.VITE_AUTH_MESSAGING_SENDER_ID,
+  appId: import.meta.env.VITE_AUTH_APP_ID,
+  measurementId: import.meta.env.VITE_AUTH_MEASUREMENT_ID,
 };
 
 // Inicializar ambas aplicaciones
