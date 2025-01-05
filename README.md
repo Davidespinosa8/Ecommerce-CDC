@@ -1,3 +1,13 @@
+# Junin E-Commerce Website
+
+## Diseño UI/UX en Figma
+
+[Ver el diseño en Figma](https://www.figma.com/design/ZxZ2wvUUkku5h9uY595mPy/Junin-E-Commerce-Website-UI-UX-Design-(Copy)?node-id=1-3&p=f&t=MQ1nKL34ds3cVvJu-0)
+
+## Imagen del Proyecto
+
+![Vista previa del diseño](./assets/Img1.png)
+
 # Sitio Web de E-Commerce 🎉
 
 Este proyecto de e-commerce fue desarrollado como parte del curso de front-end de la Escuela de Innovación y Tecnología en Junín. El sitio ofrece una experiencia de compra moderna y funcional, utilizando tecnologías avanzadas como React junto con Vite para la configuración inicial. Tailwind CSS se empleó para los estilos, complementado con componentes personalizados, asegurando una interfaz atractiva y fácil de usar. Además, aprovecha los conocimientos adquiridos en la utilización de diversos complementos y aplicaciones creadas para mejorar la eficiencia y funcionalidad del proyecto, realzando su valor.
@@ -81,6 +91,17 @@ Sigue estos pasos para ejecutar el proyecto localmente:
 8. **Perfil**: Panel de usuario personalizado.
 
 ---
+
+
+# Junin E-Commerce Website
+
+## UI/UX Design on Figma
+
+[View the design on Figma](https://www.figma.com/design/ZxZ2wvUUkku5h9uY595mPy/Junin-E-Commerce-Website-UI-UX-Design-(Copy)?node-id=1-3&p=f&t=MQ1nKL34ds3cVvJu-0)
+
+## Project Image
+
+![Project preview](./assets/Img1.png)
 
 # E-Commerce Website 🎉
 

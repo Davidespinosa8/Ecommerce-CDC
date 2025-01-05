@@ -2,10 +2,9 @@
 /* eslint-disable react/prop-types */
 import { createContext, useState, useEffect } from "react";
 import { initializeApp } from "firebase/app";
-import { getFirestore } from "firebase/firestore"; // Import firestore module
+import { getFirestore } from "firebase/firestore"; 
 import { getAuth } from "firebase/auth";
 
-// Configuración del proyecto original (Firestore)
 const firestoreConfig = {
   apiKey: import.meta.env.VITE_FIRESTORE_API_KEY,
   authDomain: import.meta.env.VITE_FIRESTORE_AUTH_DOMAIN,
@@ -26,14 +25,14 @@ const authConfig = {
   measurementId: import.meta.env.VITE_AUTH_MEASUREMENT_ID,
 };
 
-// Inicializar ambas aplicaciones
+
 let firestoreApp, authApp, firestore, auth;
 
 try {
-  firestoreApp = initializeApp(firestoreConfig, "firestoreApp"); // Instancia para Firestore
-  authApp = initializeApp(authConfig, "authApp"); // Instancia para Auth
-  firestore = getFirestore(firestoreApp); // Inicializa Firestore
-  auth = getAuth(authApp); // Inicializa Auth
+  firestoreApp = initializeApp(firestoreConfig, "firestoreApp"); 
+  authApp = initializeApp(authConfig, "authApp"); 
+  firestore = getFirestore(firestoreApp); 
+  auth = getAuth(authApp); 
 } catch (error) {
   console.error("Error initializing Firebase:", error);
 }
@@ -62,4 +61,4 @@ export const AuthProvider = ({ children }) => {
   );
 };
 
-export { auth, firestore, AuthContext }; // Exporta firestore, auth y AuthContext
+export { auth, firestore, AuthContext };
