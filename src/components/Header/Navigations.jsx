@@ -131,11 +131,11 @@ const Navigations = () => {
 
               <footer className="text-center py-4">
                 <a
-                  href="https://www.linkedin.com/in/mahmoud-mansy-a189a5232/"
+                  href="https://www.linkedin.com/in/dar%C3%ADo-david-espinosa-b50972258/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  © 2024 Mahmoud Mansy.
+                  © 2024 David Espinosa.
                   {i18n.t("footer.allRightsReserved")}
                 </a>
               </footer>

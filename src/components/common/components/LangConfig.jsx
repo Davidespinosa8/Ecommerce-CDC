@@ -296,7 +296,7 @@ const resources = {
         title: "About",
         story: "Our Story",
         paragraph1:
-          "Launced in 2015, Exclusive is South Asia’s premier online shopping makterplace with an active presense in Bangladesh. Supported by wide range of tailored marketing, data and service solutions, Exclusive has 10,500 sallers and 300 brands and serves 3 millioons customers across the region.",
+          "Launced in 2015, Exclusive is South America’s premier online shopping makterplace with an active presense in Buenos Aires. Supported by wide range of tailored marketing, data and service solutions, Exclusive has 10,500 sallers and 300 brands and serves 3 millioons customers across the region.",
         paragraph2:
           "Exclusive has more than 1 Million products to offer, growing at a very fast. Exclusive offers a diverse assotment in categories ranging from consumer.",
         card1: "Sellers active on our site",
@@ -441,7 +441,7 @@ const resources = {
         usage: "Terms Of Use",
         FAQ: "FAQ",
         Contact: "Contact",
-        copyrights: "© Copyright Rimel 2022. All rights reserved",
+        copyrights: "© Copyright D-8 2022. All rights reserved",
         allRightsReserved: "© All rights reserved",
       },
     },
@@ -743,7 +743,7 @@ const resources = {
         title: "Über",
         story: "Unsere Geschichte",
         paragraph1:
-          "Gestartet im Jahr 2015, ist Exclusive der führende Online-Shopping-Marktplatz Südasiens mit einer aktiven Präsenz in Bangladesch. Unterstützt von einer breiten Palette maßgeschneiderter Marketing-, Daten- und Service-Lösungen hat Exclusive 10.500 Verkäufer und 300 Marken und bedient 3 Millionen Kunden in der Region.",
+          "Exclusive, gestartet im Jahr 2015, ist Südamerikas führender Online-Marktplatz mit einer aktiven Präsenz in Buenos Aires. Unterstützt durch eine breite Palette maßgeschneiderter Marketing-, Daten- und Servicelösungen zählt Exclusive 10.500 Verkäufer und 300 Marken und bedient 3 Millionen Kunden in der Region.",
         paragraph2:
           "Exclusive hat mehr als 1 Million Produkte im Angebot, die sehr schnell wachsen. Exclusive bietet eine vielfältige Auswahl in Kategorien, die von Verbraucher.",
         card1: "Verkäufer aktiv auf unserer Website",
@@ -890,7 +890,7 @@ const resources = {
         usage: "Nutzungsbedingungen",
         FAQ: "FAQ",
         Contact: "Kontakt",
-        copyrights: "© Urheberrecht Rimel 2022. Alle Rechte vorbehalten",
+        copyrights: "© Urheberrecht D-8 2022. Alle Rechte vorbehalten",
         allRightsReserved: "© Alle Rechte vorbehalten",
       },
     },
@@ -1180,7 +1180,7 @@ const resources = {
         title: "من نحن",
         story: "قصتنا",
         paragraph1:
-          "بدأت Exclusive في عام 2015، وهي السوق الرائدة للتسوق عبر الإنترنت في جنوب آسيا بوجود نشط في بنغلاديش. مدعومة بمجموعة واسعة من حلول التسويق والبيانات والخدمات المخصصة، يضم Exclusive 10،500 بائع و 300 علامة تجارية ويخدم 3 ملايين عميل في المنطقة.",
+          "تم إطلاق Exclusive في عام 2015، وهي السوق الرائدة للتسوق عبر الإنترنت في أمريكا الجنوبية مع وجود نشط في بوينس آيرس. بدعم من مجموعة واسعة من الحلول التسويقية المصممة خصيصًا، والبيانات، والخدمات، تضم Exclusive أكثر من 10,500 بائع و300 علامة تجارية، وتخدم 3 ملايين عميل في جميع أنحاء المنطقة.",
         paragraph2:
           "يقدم Exclusive أكثر من مليون منتج، وهو ينمو بسرعة كبيرة. يقدم Exclusive مجموعة متنوعة من الفئات التي تتراوح من المستهلك.",
         card1: "البائعين نشطون على موقعنا",
@@ -1327,7 +1327,7 @@ const resources = {
         usage: "شروط الاستخدام",
         FAQ: "الأسئلة الشائعة",
         Contact: "اتصل بنا",
-        copyrights: "© حقوق الطبع والنشر Rimel 2022. كل الحقوق محفوظة",
+        copyrights: "© حقوق الطبع والنشر D-8 2022. كل الحقوق محفوظة",
         allRightsReserved: "© كل الحقوق محفوظة",
       },
     },
@@ -1631,7 +1631,7 @@ const resources = {
         title: "Sobre nosotros",
         story: "Nuestra historia",
         paragraph1:
-          "Exclusive comenzó en 2015, siendo el principal mercado de compras en línea en Asia del Sur con presencia activa en Bangladesh. Respaldado por una amplia gama de soluciones de marketing, datos y servicios personalizados, Exclusive cuenta con 10,500 vendedores y 300 marcas, y atiende a 3 millones de clientes en la región.",
+          "Lanzada en 2015, Exclusive es la principal plataforma de compras en línea de América del Sur con una presencia activa en Buenos Aires. Respaldada por una amplia gama de soluciones personalizadas de marketing, datos y servicios, Exclusive cuenta con 10,500 vendedores y 300 marcas, y atiende a 3 millones de clientes en toda la región.",
         paragraph2:
           "Exclusive ofrece más de un millón de productos y está creciendo rápidamente. Exclusive ofrece una variedad de categorías que van desde el consumidor.",
         card1: "Vendedores activos en nuestro sitio",
@@ -1779,7 +1779,7 @@ const resources = {
         FAQ: "Preguntas frecuentes",
         Contact: "Contáctenos",
         copyrights:
-          "© Derechos de autor Rimel 2022. Todos los derechos reservados",
+          "© Derechos de autor D-8 2022. Todos los derechos reservados",
         allRightsReserved: "© Todos los derechos reservados",
       },
     },
